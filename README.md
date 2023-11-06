@@ -3,9 +3,9 @@
 > The main goal of this project is to increase teamwork skills.
 
 ### THX FOR  MY TEAMMATE [ABDULLAH-OBAIDAT](https://www.linkedin.com/in/abdallah-obiedat-562389257).
-```
+`
 Easy Translator is an Android java app,The main objective is to learn how to operate as a team, but we also work on it to improve regular expression. we organized meetings and split the project between us.
-```
+`
 
  **Regular expressions have been implemented in :** 
 * username validation
